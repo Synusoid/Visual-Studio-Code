@@ -1,0 +1,43 @@
+html, body{
+    margin: 5px;
+}
+    header {
+    background-color: #E9DFBF;
+    color: #fff;
+    width: 98%;
+    height: 200px;
+    margin: 1%;
+}
+    header h1{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 60px;
+    font-size: 50px;
+}
+    .wrapper {
+    background-color: #E5A7E8;
+    width: 98%;
+    height: 400px;
+    margin: 1%;
+}
+    .wrapper .page{
+    text-align: center;
+    width: 19%;
+    height: 173px;
+    background-color: #9A789C;
+    display: inline-block;
+    margin: 0.4%;
+}
+    footer {
+    background-color: #A7E8DB;
+    color: #fff;
+    width: 98%;
+    height: 60px;
+    margin: 1%;
+}
+    footer p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+    

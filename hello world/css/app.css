@@ -1,0 +1,30 @@
+html, body {
+    margin: 0px;
+    background-image: linear-gradient(to bottom right, #95f9a7, #ffffff);
+}
+
+h1 {
+    color: #1b95cd;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity: 60%;
+    position: absolute;
+    -webkit-text-stroke: 2px whitesmoke;
+    font-size: 6vh;
+}
+
+.extra-text1.extra-text2.extra-text3 {
+    color: #1b95cd;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity: 60%;
+    -webkit-text-stroke: 2px whitesmoke;
+    font-size: 6vh;
+}
+
+.globe {
+    text-align: center;
+    margin-top: 150px;
+}
+    
+.globe_image {
+    height: 70vh;
+}
